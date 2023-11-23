@@ -22,14 +22,12 @@ npm install
 npm run dev
 ```
 
-### Screen Shot
-![](https://drive.google.com/file/d/1ssE8iAKlmqoOIgpktFcs8ARr6dFzBTnc/view?usp=sharing)
 
 
 ```sh
 npm run build
 ```
 
-### Image 
+### Screen Shot 
 ![An image of the app](https://drive.google.com/file/d/1ssE8iAKlmqoOIgpktFcs8ARr6dFzBTnc/view?usp=sharing)
 
