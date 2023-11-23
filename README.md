@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+### Image 
+![An image of the app](https://drive.google.com/file/d/1ssE8iAKlmqoOIgpktFcs8ARr6dFzBTnc/view?usp=sharing)
+
